@@ -7,3 +7,19 @@
 # Programming Intrest
 
 ## I want to be the scientist in mahcine learning(ML), Robotics and Artifical Intelligence to participate in inhence the world in AI.
+
+# Question 05:
+
+1. First item
+2. Second item
+3. Third item
+
+* Item one
+* Item two
+* Item three
+
+
+ ***bold and italic statement.***
+
+
+
